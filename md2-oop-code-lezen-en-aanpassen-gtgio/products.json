@@ -1,0 +1,59 @@
+[
+  {
+    "code": 1,
+    "title": "Bullit",
+    "image_url": "https://static-images.jumbo.com/product_images/47218BLK-241_360x360.png",
+    "price": 0.75,
+    "description": "Bullit Sugarfree gives you the energy you need, but without sugar."
+  },
+  {
+    "code": 2,
+    "title": "7 Energy Drink",
+    "image_url": "https://static-images.jumbo.com/product_images/160820192203_293799BLK-1_360x360.png",
+    "price": 0.50,
+    "description": "Vitamin B12 contributes to normal energy-yielding metabolism."
+  },
+  {
+    "code": 3,
+    "title": "Monster Energy Drink",
+    "image_url": "https://products3.imgix.drizly.com/ci-monster-energy-drink-a44417a571bd8be7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+    "price": 1.00,
+    "description": "Tear into a can of the meanest energy drink on the planet, Monster Energy."
+  },
+  {
+    "code": 4,
+    "title": "5 Hour Energy Berry",
+    "image_url": "https://products3.imgix.drizly.com/ci-5-hour-energy-berry-28525d39d20f433e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+    "price": 2.50,
+    "description": "The key ingredients in 5-hour ENERGY® are also available in every day foods."
+  },
+  {
+    "code": 5,
+    "title": "24/7 Energy Drink",
+    "image_url": "https://media1.fdncms.com/saltlake/imager/back-to-school-2008-whatandrsquos-the-buzz-students-test-drive-energy-dri/u/big/2134734/247_energy.jpg?cb=1454735225",
+    "price": 3.50,
+    "description": "24/7 ENERGY® gives you the power to just go forever."
+  },
+  {
+    "code": 6,
+    "title": "RedBull Energy Drink",
+    "image_url": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h52/h43/11443309346846.png",
+    "price": 2.50,
+    "description": "Red Bull Energy Drink - Vitalizes body & mind®."
+  },
+  {
+    "code": 7,
+    "title": "Pussy Energy Drink",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/71xk2DcbscL._SL1500_.jpg",
+    "price": 2.00,
+    "description": "Pussy is advertised as 100% natural as it does not contain artificial additives."
+  },
+  {
+    "code": 8,
+    "title": "Rockstar Energy Drink",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/I/61R%2BJqVerhL._SL1200_.jpg",
+    "price": 3.50,
+    "description": "Rockstar Energy Drink is designed for those who lead active lifestyles."
+  }
+
+]
